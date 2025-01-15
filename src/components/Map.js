@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import ReactMapGL, { Marker } from 'react-map-gl'; 
 import { RiUserLocationFill } from 'react-icons/ri'; 
 
-const API_KEY = '<Your API KEy>';
+const API_KEY = '<Your API KEY>';
 
 function Map({ lat, lon }) {
 
